@@ -1,0 +1,3 @@
+wasd - to run and jump
+space - shoot
+q - granade
